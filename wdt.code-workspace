@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "wdt",
+			"path": "../../../APU TOTAL/diploma/sem 4 diploma/webpage/wdt"
+		},
+		{
+			"name": "wdt",
+			"path": "../wdt"
+		},
+		{
+			"name": "LIBRARIA-Online-Library",
+			"path": "../../../APU TOTAL/diploma/sem 5 diploma/sdp/LIBRARIA-Online-Library"
+		},
+		{
+			"name": "Assignment",
+			"path": "../Assignment"
+		},
+		{
+			"name": "edit delete display feedback",
+			"path": "../edit delete display feedback"
+		},
+		{
+			"name": "Assignment1",
+			"path": "../Assignment1"
+		},
+		{
+			"name": "G29 Assignment Website",
+			"path": "../G29 Assignment Website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LIBRARIA-Online-Library"
+	}
+}
